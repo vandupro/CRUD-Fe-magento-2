@@ -1,0 +1,13 @@
+{
+    "blog_comments": {
+        "column": {
+            "cmt_id": true,
+            "post_id": true,
+            "cmt_content": true
+        },
+        "constraint": {
+            "PRIMARY": true,
+            "BLOG_COMMENTS_CMT_ID": true
+        }
+    }
+}
